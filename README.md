@@ -5,7 +5,7 @@
 :computer: **Python Teaching Assistant** @ NSYSU <br> 
 
 ### :cactus: Current Interests
-- Cloud Computing (AWS)
+- Cloud Computing (Azure, AWS)
 - more coming soon...
 
 ### Languages & Tools
